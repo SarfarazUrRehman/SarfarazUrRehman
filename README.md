@@ -1,4 +1,4 @@
-# 💻 SUR Tech
+# 💻 Sarfaraz Ur Rehman
 
 **`Cybersecurity & DevOps Engineer | Cloud Practitioner | Linux Enthusiast`**
 
