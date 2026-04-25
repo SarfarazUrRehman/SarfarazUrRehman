@@ -4,7 +4,19 @@
 
 I'm a Cybersecurity and DevOps engineer focused on cloud infrastructure and Linux systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarfarazurrehman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sarfarazurrehman9383)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarfarazurrehman5@protonmail.com) 
+<a href="https://linkedin.com/in/sarfarazurrehman">
+  <img alt="LinkedIn" title="Connect on LinkedIn"
+       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@sarfarazurrehman9383">
+  <img alt="YouTube" title="Subscribe on YouTube"
+       src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://github.com/SarfarazUrRehman">
+  <img alt="followers" title="Follow me on GitHub"
+       src="https://custom-icon-badges.demolab.com/github/followers/SarfarazUrRehman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+
 
 ---
 
